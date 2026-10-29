@@ -9,7 +9,7 @@ primaryJavaRelease = "25"
 
 kyoriText = "3.0.4"
 piston = "0.6.0"
-autoValue = "1.10.4"
+autoValue = "1.11.1"
 antlr = "4.13.2"
 cuiProtocol = "4.0.3"
 
